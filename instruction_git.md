@@ -75,3 +75,5 @@
 * и в журнале (log) выбираем версии для сравнения
 
 Прошу прощения за доставленные неудобства.
+
+![picture](https://miro.medium.com/max/900/1*sSi5LWkfxZHNVuDLs2j2ug.png)
